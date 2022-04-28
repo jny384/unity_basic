@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{44137017-1D5D-5A60-BAE2-A870E7135A6A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/animationControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraMove.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/ItemCan.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerBall.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/GameManagerLogic.cs" />
+      <File FileName="Assets/Scripts/NPC.cs" />
+      <File FileName="Assets/Scripts/ScriptManager.cs" Line="18" Column="29" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/ObjData.cs" />
+      <File FileName="Assets/Scripts/animationControl.cs" Line="57" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity_basic" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="animationControl.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4491869d-2e71-402d-a5dd-90400db3e2c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

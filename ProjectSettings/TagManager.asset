@@ -8,6 +8,9 @@ TagManager:
   - Point
   - Floor
   - Wall
+  - Text
+  - Hidden
+  - NPC
   layers:
   - Default
   - TransparentFX

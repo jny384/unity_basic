@@ -57,8 +57,9 @@ public class PlayerBall : MonoBehaviour
             }
             else
             {
-                SceneManager.LoadScene("Example0_0");
+                SceneManager.LoadScene("Example1_0");
             }
         }
     }
 }
+
